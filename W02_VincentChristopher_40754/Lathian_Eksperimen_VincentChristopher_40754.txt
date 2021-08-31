@@ -1,0 +1,12 @@
+2
+a.Program akan force close karena mengalami fatal error karena angka1 dan angka2 dibiarkan kosong sehingga program mengalami crash.
+
+b.Program akan force close juga karena angka2 merupakan salah satu variable yang penting untuk menjalankan fungsi pada program.
+
+c.Program dapat berjalan karena variable pada angka1 dan angka2 telah diberikan sehingga fungsi pada program dapat berjalan dengan lancar
+
+3.
+Step-over berguna untuk menuju baris perintah kodingan selanjutnya secara langsung
+Step-into berguna untuk mengikuti jalannya baris kodingan yang ditentukan
+Step-out berguna untuk keluar dari jalur kodingan yang kita tentukan dan menuju kodingan selanjutnya
+Resume berguna untuk menjalankan kodingan secara normal seperti biasa /  menghentikan proses debugging
